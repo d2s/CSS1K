@@ -4,44 +4,44 @@
  * This file is unminified for legibility, for size proof add '-min' to the end of the filename */
 
 body {
-	background: #222;
-	color: #fafafa;
-	font: 16px/1.7 "Helvetica Neue", Arial, Helvetica, sans-serif;
-	margin: 0;
-	padding: 60px 0 10px;
-	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  background: #222;
+  color: #fafafa;
+  font: 16px/1.7 "Helvetica Neue", Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 60px 0 10px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 a {
-	color: #fc0;
-	text-decoration: none;
+  color: #fc0;
+  text-decoration: none;
 }
 
 a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 ul, ol {
-	padding: 0 0 0 40px;
+  padding: 0 0 0 40px;
 }
 
 nav {
-	background: #fff;
-	-webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
-	-moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
-	-ms-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
-	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
-	color: #444;
-	font-size: 12px;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	text-shadow: none;
+  background: #fff;
+  -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  -ms-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  color: #444;
+  font-size: 12px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-shadow: none;
 }
 
 nav h2 {
-	margin: 0;
-	padding: 10px 40px;
+  margin: 0;
+  padding: 10px 40px;
 }
 nav h2:first-letter {
   font-size: 22px;
@@ -49,70 +49,70 @@ nav h2:first-letter {
 }
 
 nav ul {
-	display: none;
-	list-style: none;
-	padding-bottom: 10px;
+  display: none;
+  list-style: none;
+  padding-bottom: 10px;
 }
 nav ul li:first-letter {
   font-size: 14px;
 }
 
 nav:hover ul {
-	display: block;
+  display: block;
 }
 
 nav a {
-	color: #aaa;
+  color: #aaa;
 }
 
 nav a:first-child {
-	color: #333;
-	font-weight: bold;
-	margin-right: 12px;
-	font-size: 14px;
+  color: #333;
+  font-weight: bold;
+  margin-right: 12px;
+  font-size: 14px;
 }
 
 h1 {
-	font-size: 100px;
-	line-height: 1.1;
-	margin: 0;
-	padding: 0 20px;
-	text-transform: lowercase;
+  font-size: 100px;
+  line-height: 1.1;
+  margin: 0;
+  padding: 0 20px;
+  text-transform: lowercase;
 }
 
 article {
-	padding: 0 20px;
-	width: 70%;
-	min-width: 320px;
+  padding: 0 20px;
+  width: 70%;
+  min-width: 320px;
 }
 
 article header{
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 article header h2 {
-	font-weight: normal;
-	font-style: italic;
-	margin: -16px 0 0 42px;
-	text-transform: lowercase;
+  font-weight: normal;
+  font-style: italic;
+  margin: -16px 0 0 42px;
+  text-transform: lowercase;
 }
 
 section {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 section h2 {
-	padding: 8px 0;
-	text-align: center;
-	background-color: #333;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
-	border-radius: 4px;
+  padding: 8px 0;
+  text-align: center;
+  background-color: #333;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 
 
 footer {
   border-top: 2px dotted #333;
-	font-size: 12px;
-	padding: 0 20px;
+  font-size: 12px;
+  padding: 0 20px;
 }
